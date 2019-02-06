@@ -1,6 +1,3 @@
-Title goes here
+mytitle
 ===============
 
-These are:
- * red
- * blue

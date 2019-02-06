@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo 'Title goes here' > file.txt
+echo 'mytitle' > file.txt
 echo '===============' >> file.txt
 echo '' >> file.txt
 git add file.txt
@@ -13,3 +13,5 @@ git add file.txt
 git commit -m 'My colors'
 
 echo ' * green' >> file.txt
+
+echo ' * purple' >> file.txt
