@@ -1,3 +1,6 @@
 Title goes here
 ===============
 
+These are:
+ * red
+ * blue
